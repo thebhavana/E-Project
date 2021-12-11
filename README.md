@@ -7,6 +7,7 @@
 * Github Book - https://thebhavana.github.io/project-guide/ 
 * Data-Science Blog - https://thebhavana.github.io/data-science/
 * Restaurant Site - https://thebhavana.github.io/Restaurant/
+* Recruitment Site - https://thebhavana.github.io/Recruit/
 
 ## Javascript
 
