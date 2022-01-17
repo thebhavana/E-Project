@@ -1,12 +1,12 @@
 # Project-Book
 
-## Voice Assistant
+### Voice Assistant
 https://github.com/thebhavana/Assistant
 
-## Webapp
+### Webapp
 https://github.com/thebhavana/Bloodbank
 
-## Web-Designing & Development
+### Web-Designing & Development
 
 * Travel Agency - https://thebhavana.github.io/trip/
 * College - https://thebhavana.github.io/institute
@@ -16,7 +16,7 @@ https://github.com/thebhavana/Bloodbank
 * Recruitment Site - https://thebhavana.github.io/Recruit/
 
 
-## Javascript
+### Javascript
 
 * Simple Clock - https://thebhavana.github.io/js-clock
 * Stopwatch - https://thebhavana.github.io/js-stopwatch
