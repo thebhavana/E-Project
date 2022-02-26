@@ -1,24 +1,25 @@
-# Project-Book
+> ***E-PROJECTS***
 
 ### Voice Assistant
-https://github.com/thebhavana/Assistant
+https://github.com/thebhavana/Voice-Assistant
 
 ### Webapp
 https://github.com/thebhavana/Bloodbank
 
-### Web-Designing & Development
+### WebSites
 
-* Travel Agency - https://thebhavana.github.io/trip/
-* College - https://thebhavana.github.io/institute
-* Github Book - https://thebhavana.github.io/project-guide/ 
-* Data-Science Blog - https://thebhavana.github.io/data-science/
-* Restaurant Site - https://thebhavana.github.io/Restaurant/
-* Recruitment Site - https://thebhavana.github.io/Recruit/
+* Travel-Agency https://thebhavana.github.io/trip/
+* College https://thebhavana.github.io/institute
+* Github Book https://thebhavana.github.io/project-guide/ 
+* Data-Science https://thebhavana.github.io/data-science/
+* Restaurant Site https://thebhavana.github.io/Restaurant/
+* Recruitment Site https://thebhavana.github.io/Recruit/
 
 
-### Javascript
+### JS
 
 * Simple Clock - https://thebhavana.github.io/js-clock
 * Stopwatch - https://thebhavana.github.io/js-stopwatch
 
-Adding soon....more projects.
+Others are on way 📑
+Do check the documentation and implementation.
