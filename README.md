@@ -1,7 +1,7 @@
 > ***E-PROJECTS***
 
 ### Card Shop
-https://github.com/thebhavana/app
+https://github.com/thebhavana.github.io/app/
 
 
 ### Voice Assistant
