@@ -1,4 +1,4 @@
-> ***E-PROJECTS***
+> ***College Time Practice assignments***
 
 ### Card Shop
 https://thebhavana.github.io/app/
